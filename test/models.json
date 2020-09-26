@@ -5719,5 +5719,11 @@
     "target": "j48model.model",
     "source": "https://raw.githubusercontent.com/PTaati/wekaTree2python/master/j48model.model",
     "error":  "Unsupported type 'weka.classifiers.trees.J48' in 'j48model.model'."
+  },
+  {
+    "type":   "acuity",
+    "target": "inception_v1.json",
+    "source": "https://raw.githubusercontent.com/VeriSilicon/acuity-models/master/models/inception_v1/inception_v1.json",
+    "link":   "https://github.com/VeriSilicon/acuity-models"
   }
 ]
